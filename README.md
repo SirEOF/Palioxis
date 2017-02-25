@@ -3,6 +3,8 @@
 # Palioxis - Linux "kill-switch" utility
 Palioxis was the Greek personification of the backrush or retreat from battle. It seems fitting in the scenarios that would surround the needed use of this script.
 
+This project has not been maintained in quite some time and I cannot recommend it's use at all. Please don't run it :)
+
 ## Disclaimer
 * This script does **not** negate all potential threats and the use of it in your geographical location may be illegal depending on the circumstances of it's use. Please refer to your local laws before using this script.
 * Do not use this as a serious application or means of privacy/security. Palioxis is **not** production ready and there is the potential for data loss, security flaws, and other unknown issues. 
